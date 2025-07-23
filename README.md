@@ -46,6 +46,7 @@ npm install
 npm start
 
 🌐 Environment Variables
+
 Create a .env file in the server directory with the following:
 
 MONGODB_URI=your_mongodb_connection_string
