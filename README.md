@@ -32,6 +32,7 @@ cd hospital-management-system
 ### 2. Setup Backup
 cd server
 npm install 
+
 #Create a .env file and add your MongoDB URI and JWT_SECRET
 npm run dev
 
