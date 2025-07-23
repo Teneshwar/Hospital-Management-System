@@ -26,12 +26,13 @@ A full-stack web application designed to streamline and digitize hospital workfl
 ### 1. Clone the repository 
 
 git clone https://github.com/teneshwar/hospital-management-system
+
 cd hospital-management-system
 
 ### 2. Setup Backup
 cd server
-npm install
-# Create a .env file and add your MongoDB URI and JWT_SECRET
+npm install 
+#Create a .env file and add your MongoDB URI and JWT_SECRET
 npm run dev
 
 ### 3. Setup Frontend
